@@ -1,0 +1,9 @@
+.todos{
+    &__items{
+        display: flex;
+        align-items: left;
+        gap: 8px;
+        background-color: white;
+        color: brown;
+    }
+}
